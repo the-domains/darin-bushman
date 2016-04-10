@@ -1,8 +1,7 @@
 name: Darin Bushman
 favicon: null
-layout_spectrum: 0.88234
-typography_spectrum: 0.17855885811150074
-title: Darin Bushman
+layout_spectrum: 0.2576581386383623
+typography_spectrum: 0.48178889066912234
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5625
-  lightness: 0.7033974605146796
-  saturation: 0.2009679740294814
-  rhythmicContrast: 0.4707967098802328
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5824252108577639
+  lightness: 0.033886855468153954
+  saturation: 0.9176926051732153
+  rhythmicContrast: 0.7586771233472973
 purpose: []
